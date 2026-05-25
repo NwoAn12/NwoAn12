@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello I'm Anika👋
 
-<!--
-**NwoAn12/NwoAn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Microbiology professional transitioning into data analytics and bioinformatics. My background includes genomics, laboratory testing, public health, and data science.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- R
+- SQL
+- Excel
+- SAS
+- Linux
+- Data Visualization
+- Genomics and public health data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Data Analytics
+- Public Health
+- Bioinformatics
+- Genomics
+- Healthcare dashboards
+
+## Projects
+ - Health/Public Health Dashboard
+ - SQL Data Analysis
+ - Python Explorartory Data Analysis
+ - Biological Data Analysis 
+  
